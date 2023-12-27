@@ -17,4 +17,4 @@ for col in range(num_cols):
         elif input_array[row][col] == '#':
             upmost_index = row + 1
 
-print(result)
+print(result) #110128
